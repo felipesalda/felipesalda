@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Felipe Saldarriaga 
+# 👋 Hi, I'm Felipe Saldarriaga 
 
 🧙🏻‍♂️Passionate about building the future from strategy, foresight, and artificial intelligence | 📊Statistics, engineering, and projects | 
 🤖 Data Science |  🕹️Pokémon Master since 1991 | 💫 Always reading, learning, and improving.
@@ -11,15 +11,10 @@
 [🥇Certified Courses](https://www.notion.so/Certified-Courses-93e975eb7733413baf641b194660b448)
 
 ---
-# Let's connect!
+## Let's connect!
 If you want to talk about projects, or just chat, I'd love to hear from you! \
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:felipe.saldab@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-felipe-saldarriaga/)   [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/AprendeconFelipeSaldarriaga) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aprendefelipe)    
-
-### [**💼My projects**](https://www.notion.so/544938880ec248cd83f3b99e5065e321)
-
-I present to you some of the most interesting projects that I have been able to carry out professionally so far.
-You can click on each of them to read in more detail and even go to the corresponding article or repository.
 
 ### **🧰Some Technologies i use:**
 
@@ -35,6 +30,12 @@ You can click on each of them to read in more detail and even go to the correspo
 **Framework:** \
 <img src= "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src= "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 
-**Status** \
+\
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesalda)](https://github.com/felipesalda/github-readme-stats)
 
+### [**💼My projects**](https://www.notion.so/544938880ec248cd83f3b99e5065e321)
+
+I present to you some of the most interesting projects that I have been able to carry out professionally so far.
+You can click on each of them to read in more detail and even go to the corresponding article.
+\
+#### **👇🏻My Pinned Repos are here👇🏻**
