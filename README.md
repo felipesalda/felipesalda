@@ -1,12 +1,9 @@
-# 👋 Hi, I'm Felipe Saldarriaga 
+# <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30"> Hi, I'm Felipe Saldarriaga !
 
 🧙🏻‍♂️Passionate about building the future from strategy, foresight, and artificial intelligence | 📊Statistics, engineering, and projects | 
 🤖 Data Science |  🕹️Pokémon Master since 1991 | 💫 Always reading, learning, and improving.
 
-<aside>
-📌 Currently: Looking for a Data Science job opportunity.
-</aside>
-
+📌 **Currently:** Looking for a Data Science job opportunity.
 
 [🥇Certified Courses](https://www.notion.so/Certified-Courses-93e975eb7733413baf641b194660b448)
 
@@ -22,7 +19,8 @@ If you want to talk about projects, or just chat, I'd love to hear from you! \
 <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img src= "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 
 **Clouds:** \
-<img src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" href="blob:https://mcptnc.microsoft.com/3a514611-c51f-49c3-a762-ceff59a622fe" />
+<img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 **DataBases:** \
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
