@@ -31,7 +31,7 @@ If you want to talk about projects, or just chat, I'd love to hear from you! \
 <img src= "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /> <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src= "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
 
 \
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesalda)](https://github.com/felipesalda/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesaldata)](https://github.com/felipesalda/github-readme-stats)
 
 ### [**💼My projects**](https://www.notion.so/544938880ec248cd83f3b99e5065e321)
 
