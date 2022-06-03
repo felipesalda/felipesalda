@@ -1,7 +1,8 @@
 # <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30"> Hi, I'm Felipe Saldarriaga !
 
-🧙🏻‍♂️Passionate about building the future from strategy, foresight, and artificial intelligence | 📊Statistics, engineering, and projects | 
-🤖 Data Science |  🕹️Pokémon Master since 1991 | 💫 Always reading, learning, and improving.
+| 📊Statistics | ⚙Engineering | 🗺Projects | 🤖 Data Science |  🕹️Pokémon Master | 
+
+💫 **Always learning, growing and smiling** 💫
 
 📌 **Currently:** Looking for a Data Science job opportunity.
 
