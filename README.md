@@ -1,4 +1,4 @@
-# <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30"> Hi, I'm Felipe Saldarriaga !
+# <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30"> Hi, I'm Felipe Saldarriaga
 
 | 📊Statistics | ⚙Engineering | 🗺Projects | 🤖 Data Science |  🕹️Pokémon Master | 
 
